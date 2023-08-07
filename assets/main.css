@@ -1,0 +1,58 @@
+p {
+    color: brown;
+}
+
+h1 {
+    color: #3b5998;
+    text-align: center;
+}
+
+body {
+    background-color:#f2f4f7}
+h3 {
+    font-size: 50px;
+}
+
+h2 {
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.head1 {
+    color: red;
+}
+
+.heading {
+    color: blue;
+    text-align: left;
+}
+
+.head2 {
+    color: green;
+}
+
+#head4 {
+    color: yellow;
+}
+
+#head5 {
+    color: yellowgreen;
+}
+
+
+.heading_line {
+    height: 2px;
+    background-color: red;
+    border: none;
+
+}
+a:link {
+    background-color: red;
+    text-decoration: none;
+    padding-left:10px ;
+    padding-top:10px ;
+    padding-right: 10px ;
+    padding-bottom:10px
+
+}

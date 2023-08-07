@@ -1,0 +1,72 @@
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(241, 239, 239);
+    width: 150px;
+
+}
+ 
+
+
+li a {
+    display: block;
+    padding: 6px 7px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: aqua;
+    color: black;
+}
+
+table, th, td {
+    border: 1px solid;
+    width: 60%;
+    border-collapse: collapse;
+
+  }
+
+  th{height: 12px;
+    background-color: aqua;
+    font-size: 12px;
+    text-align: left;
+
+  }
+
+  td{
+    font-size: 10px;
+    text-align: left;
+    height: 20px;
+}
+
+th:hover{
+color: red;
+
+}
+
+td:hover{
+    background-color: aqua;
+
+    ul{
+        list-style-type: none;   
+        margin: 0px; 
+        padding: 0px;
+        background-color: black;
+        
+        }
+        
+        li{
+        float: left;
+        }
+        
+        li a{
+            text-decoration: none;
+            padding: 8px 10px;
+            text-align: center;
+        }
+        li a:hover{
+            background-color: aqua;
+            color: red;
+        } 
+}
